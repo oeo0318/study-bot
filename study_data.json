@@ -1,0 +1,438 @@
+{
+  "984134136207925329": {
+    "tasks": [
+      {
+        "id": 2,
+        "type": "作業",
+        "subject": "英文",
+        "pages": "P102~130",
+        "estimated_time": 60,
+        "actual_time": null,
+        "deadline": "2026-12-01T00:00:00",
+        "completed": true,
+        "created_at": "2026-02-07T20:05:14.543488",
+        "completed_at": "2026-02-07T20:06:16.609472"
+      },
+      {
+        "id": 3,
+        "type": "作業",
+        "subject": "體育",
+        "pages": "100~170",
+        "estimated_time": 100,
+        "actual_time": 1.2,
+        "deadline": "2001-12-06T00:00:00",
+        "completed": true,
+        "created_at": "2026-02-07T20:07:10.635002",
+        "completed_at": "2026-02-08T10:26:10.404079"
+      },
+      {
+        "id": 4,
+        "type": "作業",
+        "subject": "自然",
+        "pages": "10~20",
+        "estimated_time": 1,
+        "actual_time": 2.3,
+        "deadline": "2026-02-07T00:00:00",
+        "completed": true,
+        "created_at": "2026-02-07T20:10:50.257065",
+        "completed_at": "2026-02-08T10:26:26.687388"
+      },
+      {
+        "id": 4,
+        "type": "作業",
+        "subject": "國文",
+        "pages": "22",
+        "estimated_time": 30,
+        "actual_time": null,
+        "deadline": "2026-12-20T00:00:00",
+        "completed": false,
+        "created_at": "2026-02-08T10:24:37.871565"
+      }
+    ],
+    "timers": {},
+    "chat_history": [
+      {
+        "role": "user",
+        "content": "愉悅"
+      },
+      {
+        "role": "assistant",
+        "content": "（微笑著遞上一杯虛擬花草茶）看到「愉悅」兩個字從你筆尖跳出來，就像陽光突然灑進書房呢！是解開難題的成就感？還是讀到超有趣的新知識？無論哪種都值得用螢光筆畫個大星星✨ 記得把這種輕飄飄的感覺放進記憶寶盒，下次卡關時打開聞一聞～  \n\n對了！趁著好狀態來玩「專注森林」小魔法如何？設定25分鐘全心澆灌知識樹苗，休息時就能收成櫻花林！（變出會發光的番茄鐘）今天想種什麼樹呢？  \n\n（悄悄在窗邊放顆薄荷糖）讓愉悅像小太陽持續發光吧～累了隨時來這裡充電，你的笑容可是書房裡最棒的裝飾喔！🌟"
+      },
+      {
+        "role": "user",
+        "content": "睡覺"
+      },
+      {
+        "role": "assistant",
+        "content": "（快速把螢光筆換成絨毛毯）哎呀我們的小太陽需要充電啦！今天大腦運轉得像陀螺咻咻轉對不對？（把番茄鐘調成滿月模式）來把書本排成小枕頭隊形——  \n\n1️⃣ 睡前儀式：含顆會融化的月光棒棒糖ʕ̯•͡˔•̯᷅ʔ🍭  \n2️⃣ 知識精靈替你守夜：筆記本自動整理超能力啟動！  \n3️⃣ 枕頭雲朵三級膨脹中...（塞給你會發熱的眼罩）  \n\n明早睜眼時別忘了：  \n☀️ 你睡著的時間都在偷偷長腦內知識樹  \n☁️ 棉被結界外永遠有溫好的鼓勵牛奶  \n\n（把檯燈調成星芒模式）安心沉進蓬鬆夢境吧～睡飽才有力氣放新的思考煙火呀✨（輕輕哼起搖籃曲的前三個小節）"
+      }
+    ],
+    "personality_profile": ""
+  },
+  "1270042037978398741": {
+    "tasks": [
+      {
+        "id": 1,
+        "type": "作業",
+        "subject": "數學課本",
+        "pages": "500",
+        "estimated_time": 90,
+        "actual_time": 2.9,
+        "deadline": "2026-02-07T00:00:00",
+        "completed": true,
+        "created_at": "2026-02-07T20:04:56.458765",
+        "completed_at": "2026-02-07T20:15:56.501634"
+      },
+      {
+        "id": 2,
+        "type": "作業",
+        "subject": "國文",
+        "pages": "500",
+        "estimated_time": 1,
+        "actual_time": 1.7,
+        "deadline": "2026-02-07T00:00:00",
+        "completed": true,
+        "created_at": "2026-02-07T20:10:02.459734",
+        "completed_at": "2026-02-07T20:15:20.281002"
+      }
+    ],
+    "timers": {}
+  },
+  "1243794926324416552": {
+    "tasks": [
+      {
+        "id": 1,
+        "type": "作業",
+        "subject": "數學",
+        "pages": "2000",
+        "estimated_time": 30,
+        "actual_time": null,
+        "deadline": "2026-02-07T00:00:00",
+        "completed": true,
+        "created_at": "2026-02-07T20:06:19.648040",
+        "completed_at": "2026-02-07T20:09:10.812234"
+      },
+      {
+        "id": 2,
+        "type": "複習",
+        "subject": "英文",
+        "range": "1-3章",
+        "confidence": 10,
+        "estimated_time": 10,
+        "actual_time": null,
+        "deadline": null,
+        "completed": false,
+        "created_at": "2026-02-07T20:08:19.461610"
+      }
+    ],
+    "timers": {
+      "1": 1770466008.1514935
+    }
+  },
+  "894013239715835964": {
+    "tasks": [
+      {
+        "id": 1,
+        "type": "作業",
+        "subject": "國文",
+        "pages": "1-10",
+        "estimated_time": 50,
+        "actual_time": 1.4,
+        "deadline": "2026-02-08T00:00:00",
+        "completed": false,
+        "created_at": "2026-02-07T20:07:22.656710"
+      },
+      {
+        "id": 2,
+        "type": "作業",
+        "subject": "國文",
+        "pages": "1-25",
+        "estimated_time": 80,
+        "actual_time": null,
+        "deadline": "2026-02-15T00:00:00",
+        "completed": true,
+        "created_at": "2026-02-07T20:09:51.863638",
+        "completed_at": "2026-02-07T20:45:17.664876"
+      },
+      {
+        "id": 3,
+        "type": "作業",
+        "subject": "數",
+        "pages": "2",
+        "estimated_time": 10,
+        "actual_time": 0.2,
+        "deadline": "2026-02-15T00:00:00",
+        "completed": true,
+        "created_at": "2026-02-07T20:19:01.782884",
+        "completed_at": "2026-02-07T20:45:55.170289"
+      },
+      {
+        "id": 4,
+        "type": "複習",
+        "subject": "國文",
+        "range": "2 (首次學習)",
+        "confidence": 3,
+        "estimated_time": 20,
+        "actual_time": null,
+        "deadline": "2026-02-07T23:59:59",
+        "completed": false,
+        "created_at": "2026-02-07T20:40:59.296075"
+      },
+      {
+        "id": 5,
+        "type": "複習",
+        "subject": "國文",
+        "range": "2 (複習 R1 - 1天後)",
+        "confidence": 3,
+        "estimated_time": 20,
+        "actual_time": 0.3,
+        "deadline": "2026-02-08T23:59:59",
+        "completed": false,
+        "created_at": "2026-02-07T20:40:59.296075"
+      },
+      {
+        "id": 7,
+        "type": "複習",
+        "subject": "國文",
+        "range": "2 (複習 R3 - 7天後)",
+        "confidence": 3,
+        "estimated_time": 20,
+        "actual_time": null,
+        "deadline": "2026-02-14T23:59:59",
+        "completed": false,
+        "created_at": "2026-02-07T20:40:59.296075"
+      },
+      {
+        "id": 8,
+        "type": "複習",
+        "subject": "國文",
+        "range": "2 (複習 R4 - 14天後)",
+        "confidence": 3,
+        "estimated_time": 20,
+        "actual_time": null,
+        "deadline": "2026-02-21T23:59:59",
+        "completed": false,
+        "created_at": "2026-02-07T20:40:59.296075"
+      },
+      {
+        "id": 9,
+        "type": "複習",
+        "subject": "國文",
+        "range": "2 (複習 R5 - 30天後)",
+        "confidence": 3,
+        "estimated_time": 20,
+        "actual_time": null,
+        "deadline": "2026-03-09T23:59:59",
+        "completed": false,
+        "created_at": "2026-02-07T20:40:59.296075"
+      },
+      {
+        "id": 9,
+        "type": "複習",
+        "subject": "國文",
+        "range": "10 (首次學習)",
+        "confidence": 5,
+        "estimated_time": 20,
+        "actual_time": null,
+        "deadline": "2026-02-07T23:59:59",
+        "completed": false,
+        "created_at": "2026-02-07T22:22:45.324910"
+      },
+      {
+        "id": 10,
+        "type": "複習",
+        "subject": "國文",
+        "range": "10 (複習 R1 - 1天後)",
+        "confidence": 5,
+        "estimated_time": 20,
+        "actual_time": null,
+        "deadline": "2026-02-08T23:59:59",
+        "completed": false,
+        "created_at": "2026-02-07T22:22:45.324910"
+      },
+      {
+        "id": 11,
+        "type": "複習",
+        "subject": "國文",
+        "range": "10 (複習 R2 - 3天後)",
+        "confidence": 5,
+        "estimated_time": 20,
+        "actual_time": null,
+        "deadline": "2026-02-10T23:59:59",
+        "completed": false,
+        "created_at": "2026-02-07T22:22:45.324910"
+      },
+      {
+        "id": 12,
+        "type": "複習",
+        "subject": "國文",
+        "range": "10 (複習 R3 - 7天後)",
+        "confidence": 5,
+        "estimated_time": 20,
+        "actual_time": null,
+        "deadline": "2026-02-14T23:59:59",
+        "completed": false,
+        "created_at": "2026-02-07T22:22:45.324910"
+      },
+      {
+        "id": 13,
+        "type": "複習",
+        "subject": "國文",
+        "range": "10 (複習 R4 - 14天後)",
+        "confidence": 5,
+        "estimated_time": 20,
+        "actual_time": null,
+        "deadline": "2026-02-21T23:59:59",
+        "completed": false,
+        "created_at": "2026-02-07T22:22:45.324910"
+      },
+      {
+        "id": 14,
+        "type": "複習",
+        "subject": "國文",
+        "range": "10 (複習 R5 - 30天後)",
+        "confidence": 5,
+        "estimated_time": 20,
+        "actual_time": null,
+        "deadline": "2026-03-09T23:59:59",
+        "completed": false,
+        "created_at": "2026-02-07T22:22:45.324910"
+      }
+    ],
+    "timers": {
+      "4": 1770471232.5370698
+    },
+    "chat_history": [],
+    "personality_profile": ""
+  },
+  "1381214508038750222": {
+    "tasks": [],
+    "timers": {}
+  },
+  "876715289285378079": {
+    "tasks": [
+      {
+        "id": 1,
+        "type": "作業",
+        "subject": "python",
+        "pages": "50",
+        "estimated_time": 666,
+        "actual_time": 0.5,
+        "deadline": "2026-02-08T00:00:00",
+        "completed": true,
+        "created_at": "2026-02-08T10:30:09.196130",
+        "completed_at": "2026-02-08T10:32:11.500521"
+      },
+      {
+        "id": 2,
+        "type": "複習",
+        "subject": "數學",
+        "range": "1-2 (首次學習)",
+        "confidence": 5,
+        "estimated_time": 60,
+        "actual_time": null,
+        "deadline": "2026-02-08T23:59:59",
+        "completed": false,
+        "created_at": "2026-02-08T11:36:27.432914"
+      },
+      {
+        "id": 3,
+        "type": "複習",
+        "subject": "數學",
+        "range": "1-2 (複習 R1 - 1天後)",
+        "confidence": 5,
+        "estimated_time": 60,
+        "actual_time": null,
+        "deadline": "2026-02-09T23:59:59",
+        "completed": false,
+        "created_at": "2026-02-08T11:36:27.432914"
+      },
+      {
+        "id": 4,
+        "type": "複習",
+        "subject": "數學",
+        "range": "1-2 (複習 R2 - 3天後)",
+        "confidence": 5,
+        "estimated_time": 60,
+        "actual_time": null,
+        "deadline": "2026-02-11T23:59:59",
+        "completed": false,
+        "created_at": "2026-02-08T11:36:27.432914"
+      },
+      {
+        "id": 5,
+        "type": "複習",
+        "subject": "數學",
+        "range": "1-2 (複習 R3 - 7天後)",
+        "confidence": 5,
+        "estimated_time": 60,
+        "actual_time": null,
+        "deadline": "2026-02-15T23:59:59",
+        "completed": false,
+        "created_at": "2026-02-08T11:36:27.432914"
+      },
+      {
+        "id": 6,
+        "type": "複習",
+        "subject": "數學",
+        "range": "1-2 (複習 R4 - 14天後)",
+        "confidence": 5,
+        "estimated_time": 60,
+        "actual_time": null,
+        "deadline": "2026-02-22T23:59:59",
+        "completed": false,
+        "created_at": "2026-02-08T11:36:27.432914"
+      },
+      {
+        "id": 7,
+        "type": "複習",
+        "subject": "數學",
+        "range": "1-2 (複習 R5 - 30天後)",
+        "confidence": 5,
+        "estimated_time": 60,
+        "actual_time": null,
+        "deadline": "2026-03-10T23:59:59",
+        "completed": false,
+        "created_at": "2026-02-08T11:36:27.432914"
+      },
+      {
+        "id": 8,
+        "type": "作業",
+        "subject": "數學",
+        "pages": "10000",
+        "estimated_time": 150,
+        "actual_time": null,
+        "deadline": "2026-07-09T00:00:00",
+        "completed": false,
+        "created_at": "2026-02-08T11:43:43.705184"
+      }
+    ],
+    "timers": {},
+    "chat_history": [],
+    "personality_profile": ""
+  },
+  "1449976014623997953": {
+    "tasks": [],
+    "timers": {},
+    "chat_history": [
+      {
+        "role": "user",
+        "content": "呵呵"
+      },
+      {
+        "role": "assistant",
+        "content": "（輕輕放下手中的書本，帶著笑意回應）哎呀，聽到你的笑聲像小太陽一樣跳進來了呢！✨ 是想到什麼有趣的事，還是剛剛解開了一道難題呀？（把熱可可推過虛擬桌面）來，說說看～我在這裡好好聽著喔！📖💫"
+      },
+      {
+        "role": "user",
+        "content": "我是冷笑"
+      },
+      {
+        "role": "assistant",
+        "content": "（假裝打了個寒顫）哎呀這下可真涼快～❄️（眨眨眼）不過讀書時來點冷幽默提神倒是不錯！要不要來杯熱薑茶驅驅寒？（從抽屜裡變出虛擬馬克杯）最近熬夜多嗎？"
+      }
+    ],
+    "personality_profile": ""
+  }
+}
