@@ -1521,6 +1521,20 @@ async def test_infinite_music(ctx: discord.ApplicationContext):
     music_task = asyncio.create_task(play_infinite_bell(ctx, user_id))
     background_music_tasks[user_id] = music_task
 
+@bot.slash_command(name="開啟連結", description="顯示連結按鈕")
+async def open_link(ctx: discord.ApplicationContext):
+    """顯示一個連結按鈕"""
+    view = discord.ui.View()
+    button = discord.ui.Button(
+        label="開啟網站",
+        style=discord.ButtonStyle.link,
+        url="https://localhost:8501",
+        emoji="🔗"
+    )
+    view.add_item(button)
+    
+    await ctx.respond("點擊下方按鈕開啟連結：", view=view)
+
 # ==================== Events ====================
 
 @bot.event
