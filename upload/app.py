@@ -8,10 +8,10 @@ st.title("📂 多資料夾檔案上傳工具")
 BASE_DIR = "."
 
 UPLOAD_DIRS = {
-    "自然": os.path.join(BASE_DIR, "123/upload/natural"),
-    "社會": os.path.join(BASE_DIR, "123/upload/social"),
-    "國文": os.path.join(BASE_DIR, "123/upload/chinese"),
-    "數學": os.path.join(BASE_DIR, "123/upload/math")
+    "自然": os.path.join(BASE_DIR, "upload/natural"),
+    "社會": os.path.join(BASE_DIR, "upload/social"),
+    "國文": os.path.join(BASE_DIR, "upload/chinese"),
+    "數學": os.path.join(BASE_DIR, "upload/math")
 }
 
 # 確保所有目標資料夾都存在
