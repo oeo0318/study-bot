@@ -1528,7 +1528,7 @@ async def open_link(ctx: discord.ApplicationContext):
     button = discord.ui.Button(
         label="開啟網站",
         style=discord.ButtonStyle.link,
-        url="https://localhost:8501",
+        url="http://localhost:8501",
         emoji="🔗"
     )
     view.add_item(button)
